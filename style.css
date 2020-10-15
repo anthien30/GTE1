@@ -343,6 +343,7 @@ section h1 {
 }
 .image-pickers span:hover::after {
   opacity: 1;
+  color: #000;
 }
 
 /*** Favorites Section ***/
